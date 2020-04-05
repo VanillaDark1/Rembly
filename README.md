@@ -1,2 +1,4 @@
-# ragbox
-Decompiles Nintendo 64 games into Assembly. (I will begin working on it once I learn Assembly because I don't know it and it a decompiler like this feels like a good idea)
+# RagBox
+Wanna decompile a Nintendo 64 ROM into Assembly? Look no further.
+
+I wanna make this since it feels like a great alternative change ROMS for ROM Hackers.
